@@ -1,2 +1,3 @@
 Space Invaders
-![Game_sc](https://user-images.githubusercontent.com/80106093/149663411-fa496c49-fc14-4d3c-b067-b2bf1109e519.png)
+![Game_sc](https://user-images.githubusercontent.com/80106093/149663494-a399a4d0-1a9b-47d7-a70b-85dd42e3ba70.png)
+
